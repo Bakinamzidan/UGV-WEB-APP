@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4cCgo//7Ac6k/IU5UWQIW3Cnt0/1gNC29HwtJm4acNxFESHHVsrpWO3jCAVFX9Rmz5AppW3VuGA7lTPRSRObg==",
+  "dgSpecHash": "Z1sNMam3gg9CXKgLwCeNQLo7/4oboUKXc93yD2TWQHso/+/XQ+o8bltxo6OEBgI1mp0U/izZ9PiZdfT9H1zStA==",
   "success": true,
-  "projectFilePath": "D:\\Personal\\projects\\Bakboka\\UGV\\UGV\\UGV.csproj",
+  "projectFilePath": "D:\\Personal\\projects\\Bakboka\\UGV-WEB-APP\\UGV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moust\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\moust\\.nuget\\packages\\duende.identityserver\\5.2.0\\duende.identityserver.5.2.0.nupkg.sha512",

@@ -3116,11 +3116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\projects\\Bakboka\\UGV\\UGV\\UGV.csproj",
+      "projectUniqueName": "D:\\Personal\\projects\\Bakboka\\UGV-WEB-APP\\UGV.csproj",
       "projectName": "UGV",
-      "projectPath": "D:\\Personal\\projects\\Bakboka\\UGV\\UGV\\UGV.csproj",
+      "projectPath": "D:\\Personal\\projects\\Bakboka\\UGV-WEB-APP\\UGV.csproj",
       "packagesPath": "C:\\Users\\moust\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\projects\\Bakboka\\UGV\\UGV\\obj\\",
+      "outputPath": "D:\\Personal\\projects\\Bakboka\\UGV-WEB-APP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moust\\AppData\\Roaming\\NuGet\\NuGet.Config",
